@@ -1,0 +1,5 @@
+SN,Freqresp-In Spk,THD 2-5 -In spk,Rub&Buzz Harmonic 10-35 -In spk,
+00000001,Fail,Fail,Fail,
+00000001,Fail,Fail,Fail,
+00000001,Fail,Fail,,
+00000001,Pass,Pass,,
