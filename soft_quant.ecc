@@ -1,0 +1,32 @@
+Win32顾名思义就是MS的windows应用 针对windows平台对Python做的扩展 和 其他Python的本地化扩展累死 Active
+COM是MS的公共对象模型 号称跨平台的 但是只有它自己的实现 COM是实现OLE的基础 应用一个范例是ActiveX
+Pyhook
+MSOffice2PS-Python-Module 1.1
+
+
+包只支持py2怎么自己修改|最好的切换py2和py3环境的工具和各个版本的
+
+
+aky
+window
+mouse
+bind hotkey hotstring more hotkey hotkey switch
+
+搭建git服务器
+上传克隆修改
+pull fork issue仓库
+GitHub就是一个免费托管开源代码的远程仓库。但是对于某些视源代码如生命的商业公司来说，既不想公开源代码，又舍不得给GitHub交保护费，那就只能自己搭建一台Git服务器作为私有仓库使用
+用户名密码
+.ssh/id_rsa.pub
+Git--如何解决failed to push some refs to git
+git push -u origin master
+README.md文件不再本地代码目录中
+git pull --rebase origin master
+本地代码库中多了README.md文件
+
+1.在某个网络版本库中更新一两个文件 不做修改(或做修改)
+2.在本地版本库中 拉取网络版本库的更新内容 并debug
+3.对两个不同功能的仓库进行合并操作
+4.体会分支的好处
+最长公共子序列
+dd
